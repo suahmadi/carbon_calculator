@@ -1,0 +1,9 @@
+make,model,battery capacity,charge rate,MPGe,kWh/100 mi
+tesla,model3_long_range,70,50,134,25
+tesla,model3_standard_range,50,50,142,24
+hyundai,ioniq,38.3,44,133,25
+chevy,bolt,60,50,118,29
+nissan,leaf,40,30,111,30
+bmw,i3,37.9,49,113,30
+porsche,taycan,83.7,262,79,41
+audi,e-tron,86.5,155,78,43

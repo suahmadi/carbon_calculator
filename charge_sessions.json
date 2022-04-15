@@ -1,0 +1,26 @@
+[
+    {
+        "id": 123,
+        "name": "Leah's Leaf",
+        "make": "nissan",
+        "model": "leaf",
+        "start_time": "2022-04-04 12:25",
+        "end_time": "2022-04-04 13:55"
+    },
+    {
+        "id": 456,
+        "name": "Ellie's Tesla",
+        "make": "tesla",
+        "model": "model3_long_range",
+        "start_time": "2022-04-04 09:00",
+        "end_time": "2022-04-04 10:30"
+    },
+    {
+        "id": 789,
+        "name": "Morgan's Ioniq",
+        "make": "hyundai",
+        "model": "ioniq",
+        "start_time": "2022-04-04 13:27",
+        "end_time": "2022-04-04 13:55"
+    }
+]
