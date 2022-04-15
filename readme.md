@@ -26,22 +26,4 @@
   - divide the calculated MPkWh by MPGe and then multiply the result by 0.382
   - the final result would be kg CO2 avoided
 
-# Trade offs & risky decisions
 
-- I assumed that the format of time will always be consistent.
-- I assumed that the files would be in the same directory.
-- I have used multiple for loops in my solution, which is not ideal for run-time and maybe can be improved.
-- formatting and calculations is not the prettiest, which can give a hard time for future co-workers who try to work on the code.
-
-# Possible Improvements & Time spent
-
-- instead of assuming the format of time will be consistent, look for it dynamically in and then parse it.
-- instead of assuming the files would be in the same directory, we can instead ask for the full path of the file and build the path.
-- use DP or a recursive approach to improve performance and efficiency
-- use more clear formatting and variable naming with more comments
-- instead of having files locally we can extend the program to connect to databases directly and grab information from there instead.
-
-# Time spent
-
-- I spent around 45 minutes total on coding, most of the time was spent formatting and parsing.
-- I came up with the algorithm approach before I started coding in about 15-20 minutes after checking the files.
